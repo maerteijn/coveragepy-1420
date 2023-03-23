@@ -28,7 +28,7 @@ Just after the breakpoint
 Now install version `6.4.0`:
 
 ```bash
-pip install coverage==6.4.0
+pip install "coverage==6.4.0"
 pytest --cov=my_module.py
 ```
 
